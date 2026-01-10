@@ -61,47 +61,6 @@ I enjoy working on small projects to learn new tools, understand business proble
 
 ---
 
-### Programming & Tools
-- Python 🐍  
-- SQL  
-- Power BI 
-- Excel  
-- Git & GitHub  
-- Jupyter Notebook / VS Code / Google Colab
-
-### Data Analytics & Visualization
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Dashboarding  
-- Basic Statistics  
-
----
-
-## Projects
-
-### 💾 Hospital Patient Management System – SQL
-- Designed a relational database to manage hospital patient records  
-- Created tables for patients, doctors, appointments, and treatments  
-- Wrote queries to retrieve patient history, doctor schedules, and billing  
-- Learned database relationships, joins, and aggregations  
-
-### 📊 Student Social Media Addiction Analysis – Excel
-- Analyzed survey data using Excel  
-- Created pivot tables, charts, and graphs to visualize trends  
-- Derived insights on social media usage and academic impact  
-
-### 🐍 Personal Finance Manager with AI Assistance – Python
-- Built a Python app to track personal expenses and income  
-- Implemented AI-assisted recommendations for budgeting  
-- Used pandas and matplotlib to provide actionable insights  
-
-### 📈 Bank Customer Prediction – Python (EDA)
-- Explored and cleaned bank customer dataset  
-- Performed statistical analysis and visualizations to identify patterns  
-- Analyzed factors affecting customer behavior and potential predictions  
-
----
-
 ## 💼 Internships & Experience
 
 **Online Internship – Data Science and Data Analytics - Edify Techno Solutions**
