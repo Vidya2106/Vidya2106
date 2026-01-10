@@ -1,3 +1,4 @@
+![Profile Picture](https://github.com/Vidya2106.png)
 # Hi there 👋, I’m Vidya Sri
 
 🎓 **B.Sc. Computer Science Student | 2023–2026**  
