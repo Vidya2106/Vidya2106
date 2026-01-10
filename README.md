@@ -3,37 +3,41 @@
 
 🎓 **B.Sc. Computer Science Student | 2023–2026**  
 📊 Aspiring Data Analyst & Data Scientist
-
+🌏 Chennai, Tamil Nadu, India
 ---
 
-## About Me
-I am a curious and motivated CS student with a passion for turning data into meaningful insights.  
-I enjoy working on small projects to learn new tools, understand business problems, and apply practical solutions.
+## 👩‍💻 About Me
+I'm a curious learner passionate about transforming raw data into actionable insights. Currently diving deep into the world of data analytics, I love exploring datasets, uncovering patterns, and telling stories through visualizations.
+
+💡 What drives me:
+Solving real-world problems with data | Building practical projects | Continuous learning
 
 🌱 Currently Learning:
-- Advanced Data Analytics
-- AI & ML
-- Power BI
+
+Advanced Data Analytics
+AI & Machine Learning
 
 ---
 
 ## Skills
 
 ### Programming Languages
-- Python 🐍   
-- SQL 
-- Power BI / Tableau  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Data Analytics & Visualization
-- Power BI / Tableau 
-- Data Cleaning & Transformation  
-- Data Visualization & Dashboarding  
-- Basic Statistics & Exploratory Data Analysis  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Other Tools
-- Git & GitHub  
-- Excel  
-- Jupyter Notebook / VS Code  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -77,9 +81,9 @@ I enjoy working on small projects to learn new tools, understand business proble
 
 ---
 
-## Connect with me
-- ✉️ Email: vidyasridevendran@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/vidya-sri-37394a35b](https://www.linkedin.com/in/vidya-sri-37394a35b)  
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidyasridevendran@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidya-sri-37394a35b)
 
 ---
 
